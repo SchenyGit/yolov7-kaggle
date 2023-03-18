@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>ada657aa-7991-4355-b4b4-a00c63a65ce8.jpg</filename>
+	<path>F:\Reflective_vests\VOC2021\JPEGImages\ada657aa-7991-4355-b4b4-a00c63a65ce8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>750</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>reflective_clothes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>159</ymin>
+			<xmax>429</xmax>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+</annotation>
